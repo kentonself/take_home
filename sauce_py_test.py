@@ -11,7 +11,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 def buy_item(item_name):
 
-    sauce = False
+    sauce = True
     if sauce:
         caps = {}
         caps = {}
